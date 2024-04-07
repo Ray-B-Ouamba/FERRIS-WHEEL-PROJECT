@@ -11,7 +11,7 @@ We have I built a Ferris wheel. It is a type of amusement ride consisting of a r
 * Add some JavaScript to make it more interactive.
 
 ## LESSONS LEARNED:
-* Utilize CSS to animate elements, transform them, and adjust their speed and build a Ferris wheel. 
+* Utilize CSS to animate elements, transform them, and adjust their speed and build a Ferris wheel.
 
 ## SIMILAR PROJECT:
 

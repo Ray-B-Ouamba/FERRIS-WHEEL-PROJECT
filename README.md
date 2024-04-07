@@ -1,7 +1,5 @@
 # FERRIS-WHEEL-PROJECT
-I built a Ferris wheel. I have used the 
-
-We have build Ray's gallery Website so he can present his work and engage in marketing, branding, and interaction.
+We have I built a Ferris wheel. It is a type of amusement ride consisting of a rotating upright wheel with multiple passenger-carrying cabins attached to the rim.
 
 **PROJECT LINK:**  https://ray-b-ouamba.github.io/FERRIS-WHEEL-PROJECT/
 

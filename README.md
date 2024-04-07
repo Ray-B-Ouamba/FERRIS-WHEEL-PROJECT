@@ -1,10 +1,9 @@
 # FERRIS-WHEEL-PROJECT
 I built a Ferris wheel. I have used the 
 
-
 We have build Ray's gallery Website so he can present his work and engage in marketing, branding, and interaction.
 
-**PROJECT LINK:** https://ray-b-ouamba.github.io/RAYFLAMME-GALLERY-WEBSITE/
+**PROJECT LINK:**  https://ray-b-ouamba.github.io/FERRIS-WHEEL-PROJECT/
 
 **TECH USED:** 
 * HTML,

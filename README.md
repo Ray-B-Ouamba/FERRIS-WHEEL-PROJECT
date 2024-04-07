@@ -1,5 +1,5 @@
 # FERRIS-WHEEL-PROJECT
-We have I built a Ferris wheel. It is a type of amusement ride consisting of a rotating upright wheel with multiple passenger-carrying cabins attached to the rim.
+We have I built a Ferris wheel. It is a type of amusement ride consisting of a rotating upright wheel with multiple passenger-carrying cabins attached to 
 
 **PROJECT LINK:**  https://ray-b-ouamba.github.io/FERRIS-WHEEL-PROJECT/
 
